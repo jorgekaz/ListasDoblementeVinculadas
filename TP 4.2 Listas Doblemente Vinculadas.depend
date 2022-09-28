@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1664285655 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4.2 listas doblemente vinculadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"librerias/fila.h"
+	"librerias/listadoble.h"
+
+1664233033 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4.2 listas doblemente vinculadas\librerias\listadoble.c
+	"listadoble.h"
+
+1664236608 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4.2 listas doblemente vinculadas\librerias\fila.c
+	"Fila.h"
+
+1664232581 d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4.2 listas doblemente vinculadas\librerias\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"listadoble.h"
+
+1664232997 d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4.2 listas doblemente vinculadas\librerias\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+
